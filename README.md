@@ -14,3 +14,7 @@
 | Loop Count  | 1  |
 
 ![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/f6b764b1-9aba-4f21-b893-36cdcc2c2569)
+ 
+## PageSpeed Insights:
+Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=desktop
+![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/e1e98ac6-b54e-4962-926f-c7eef761f52c)
