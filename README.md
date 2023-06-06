@@ -5,11 +5,12 @@
 [PDF](https://drive.google.com/file/d/1cI9_7JVvtUjUSqY8ZTs3O4SYrdurudZS/view?usp=sharing)
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/339px-Apache_Feather_Logo.svg.png?20220805205423"  width="20" height="20"> Jmeter report  
 #### Html Format :https://sayid1218.github.io/Performance_Testing_Project_1/Quick-solution.html/
-### Thread Propertis:
+### Thread Properties:
 
-| Thread Propertis | Number |
+| Thread Properties | Number |
 | ------------- | ------------- |
 | Number of Threads  | 1000  |
 | Ramp-up Periods  | 1  |
 | Loop Count  | 1  |
 
+![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/f6b764b1-9aba-4f21-b893-36cdcc2c2569)
