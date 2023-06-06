@@ -9,11 +9,11 @@
 
 * Run Command:
 ```console
-jmeter -n -t Project1.jmx -l Project1.jtl
+jmeter -n -t Quick-Solution -l quick_solution1000.jtl
 ```
 * Run Command for Report:
 ```console
-jmeter -g Project5000.jtl -o Project1.html
+jmeter -g quick_solution1000.jtl -o Quick-solution.html
 ```
 
 ### :technologist: Technology used
