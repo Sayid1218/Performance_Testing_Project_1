@@ -17,7 +17,7 @@
  
 ## PageSpeed Insights:
 * For Desktop
-![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/e1e98ac6-b54e-4962-926f-c7eef761f52c)
+![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/03feb246-ebca-4b58-9706-c0ead0bac7f3)
 Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=desktop
 * For Phone
 * ![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/eea51cdd-c99e-4ce1-bc23-7fa54074d372)
