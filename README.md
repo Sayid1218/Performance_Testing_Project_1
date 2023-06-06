@@ -16,5 +16,10 @@
 ![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/f6b764b1-9aba-4f21-b893-36cdcc2c2569)
  
 ## PageSpeed Insights:
-Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=desktop
+* For Desktop
 ![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/e1e98ac6-b54e-4962-926f-c7eef761f52c)
+Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=desktop
+* For Phone
+* ![image](https://github.com/Sayid1218/Performance_Testing_Project_1/assets/97175166/eea51cdd-c99e-4ce1-bc23-7fa54074d372)
+Full Report: https://pagespeed.web.dev/analysis/https-quick-solution-2-web-app/jq34153laa?form_factor=mobile
+
